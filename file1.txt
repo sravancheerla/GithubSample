@@ -1,2 +1,5 @@
 tomato
 onion
+chilli
+brinjal
+
